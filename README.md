@@ -1,5 +1,5 @@
 # 💫 About Me:
-focused on building stronger depth in systems thinking and implementation-oriented learning.
+tech geek , focused on building stronger depth in systems thinking and implementation-oriented learning.
 
 
 # 💻 Tech Stack:
